@@ -5,3 +5,4 @@
 1. Työkalut
 2. JavaScriptkertaus / npm
 3. Speksaus, tehtävän softan esittely
+4. Projektin luominen, Create React App
